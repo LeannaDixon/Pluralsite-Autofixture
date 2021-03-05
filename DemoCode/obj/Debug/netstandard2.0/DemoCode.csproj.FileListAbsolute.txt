@@ -1,0 +1,9 @@
+C:\Users\leann\Documents\Repos\Pluralsite Autofixture\03\demos\before\01Strings\DemoCode\bin\Debug\netstandard2.0\DemoCode.deps.json
+C:\Users\leann\Documents\Repos\Pluralsite Autofixture\03\demos\before\01Strings\DemoCode\bin\Debug\netstandard2.0\DemoCode.dll
+C:\Users\leann\Documents\Repos\Pluralsite Autofixture\03\demos\before\01Strings\DemoCode\bin\Debug\netstandard2.0\DemoCode.pdb
+C:\Users\leann\Documents\Repos\Pluralsite Autofixture\03\demos\before\01Strings\DemoCode\obj\Debug\netstandard2.0\DemoCode.csprojAssemblyReference.cache
+C:\Users\leann\Documents\Repos\Pluralsite Autofixture\03\demos\before\01Strings\DemoCode\obj\Debug\netstandard2.0\DemoCode.AssemblyInfoInputs.cache
+C:\Users\leann\Documents\Repos\Pluralsite Autofixture\03\demos\before\01Strings\DemoCode\obj\Debug\netstandard2.0\DemoCode.AssemblyInfo.cs
+C:\Users\leann\Documents\Repos\Pluralsite Autofixture\03\demos\before\01Strings\DemoCode\obj\Debug\netstandard2.0\DemoCode.csproj.CoreCompileInputs.cache
+C:\Users\leann\Documents\Repos\Pluralsite Autofixture\03\demos\before\01Strings\DemoCode\obj\Debug\netstandard2.0\DemoCode.dll
+C:\Users\leann\Documents\Repos\Pluralsite Autofixture\03\demos\before\01Strings\DemoCode\obj\Debug\netstandard2.0\DemoCode.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eYKJJ6B6FMqLJ2xgeVPv4x1xrugtjllGMEVtsR6Z0OShPEmPe/GxMlJVZ9ZPbmMoHvzTwZYa8icvtyg9AyPGLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leann\\Documents\\Repos\\Pluralsite Autofixture\\03\\DemoCode\\DemoCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leann\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
